@@ -1,2 +1,4 @@
 # cardapio
- Projeto Cardapio Dev
+🚀Projeto Cardapio Online
+
+Construção de projeto completo do zero utilizando HTML, CSS, TailwindCSS e Javascript.
